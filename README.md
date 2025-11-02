@@ -1,3 +1,5 @@
+### SQL Project: Creating a Holistic Database for a Dormitory Laundry Room Reservation System
+
 **Overview**
 
 This project was developed as part of a university Database Management Systems course. It simulates a laundry machine reservation system for student housing, allowing users to reserve washers and dryers, submit maintenance requests, and view operational analytics. The goal was to demonstrate how structured data, normalization, and SQL reporting can create an efficient scheduling and asset management platform similar to those used in real-world housing or facility management environments.
