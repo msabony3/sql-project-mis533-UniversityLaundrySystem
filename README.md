@@ -1,4 +1,4 @@
-### SQL Project: Creating a Holistic Database for a Dormitory Laundry Room Reservation System
+# SQL Project: Creating a Holistic Database for a Dormitory Laundry Room Reservation System
 
 **Overview**
 
